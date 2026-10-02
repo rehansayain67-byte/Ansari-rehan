@@ -1,0 +1,6 @@
+{
+  "name": "7 Wonders Studio – Unisex Salon",
+  "description": "7 Wonders Studio is a professional unisex salon in Bandra West, Mumbai, offering hair styling, hair treatments, beauty services and grooming for men and women.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
